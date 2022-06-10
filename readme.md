@@ -52,5 +52,3 @@ command:
 - /metrics-server
 - --kubelet-insecure-tls
 - --kubelet-preferred-address-types=InternalIP
-
-
